@@ -1,4 +1,4 @@
-from os_module import encrypt, decrypted
+from os_module import encrypt, decrypt
 
 print(encrypt('README.md'))
 
